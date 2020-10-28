@@ -1,0 +1,11 @@
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/User.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Customer.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Product.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/Application.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/CartItem.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Cart.java
+/home/maodou/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Authorities.java
